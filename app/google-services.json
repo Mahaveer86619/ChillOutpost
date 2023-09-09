@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070193101159",
+    "project_id": "chilloutpost-18600",
+    "storage_bucket": "chilloutpost-18600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070193101159:android:23e07704bfbc1149fcc7c2",
+        "android_client_info": {
+          "package_name": "com.sev7en.chilloutpost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7BsX3MQgl4m7XfOugLOyNjkpCcFzJg5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
